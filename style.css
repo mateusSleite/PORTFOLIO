@@ -139,6 +139,10 @@ html {
     section .contai .form{
         margin-left: 1em;
     }
+    
+    .contai .form p{
+        font-size: 1.3em;
+    }
 }
 
 
